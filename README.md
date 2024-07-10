@@ -1,16 +1,15 @@
-## Hi there 👋
+# about me
+- Coding in: Python and batch (mostly python)
+- discord username: ynb21
 
-<!--
-**ynb21/ynb21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## [Socials](https://guns.lol/ynb21)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Profile visits
+<p> <img src="https://profile-counter.glitch.me/ynb21/count.svg" /> </p>  
+
+### Github Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ynb21&show_icons=true&theme=transparent)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ynb21&hide=php&theme=tokyonight)
